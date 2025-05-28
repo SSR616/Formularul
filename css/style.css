@@ -1,0 +1,12 @@
+body {
+    background-image: url(../images/1C36ECB6-574F-48CB-B5FB-1EE0F5D7BD36.jpeg); 
+    background-size: cover;
+}
+
+form {
+    margin: 0 auto;
+}
+
+input {
+    margin-bottom: 20px;
+}
